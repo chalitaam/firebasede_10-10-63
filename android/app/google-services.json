@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930622462292",
+    "firebase_url": "https://dispen-6db28.firebaseio.com",
+    "project_id": "dispen-6db28",
+    "storage_bucket": "dispen-6db28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930622462292:android:868524a280228f88f910c1",
+        "android_client_info": {
+          "package_name": "io.chalita.firebasedemo.firebasede"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930622462292-6c0in0f8iad1vc0mjqotafsqkratemb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.chalita.firebasedemo.firebasede",
+            "certificate_hash": "47f466631a6b84a2709659b6e54deec9b84972fd"
+          }
+        },
+        {
+          "client_id": "930622462292-snbfspqm9jm6v2sbaa55kfap3t5sl7mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Dm3Ulfna9N-e1PEwYzeqA_FWvIfgOqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930622462292-snbfspqm9jm6v2sbaa55kfap3t5sl7mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
